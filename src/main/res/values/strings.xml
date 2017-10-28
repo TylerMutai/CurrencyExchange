@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Currency Exchange</string>
+    <string name="welcome"> Click me if you need help (Click a card to go to the Conversion Screen) </string>
+    <string name="cryptocurrency_conversion">Crypto Currencies Conversions</string>
+    <string name="one_bitcoin">1 Bitcoin</string>
+    <string name="one_etc">1 ETC</string>
+    <string name="enter_btc_value">Enter Bitcoin Value</string>
+    <string name="enter_etc_value">Enter Etherium Coin Value</string>
+    <string name="convert">Convert</string>
+    <string name="click_to_retry">Click to Retry</string>
+    <string name="conversion_goes_here">%1$s Conversion goes here.</string>
+    <string name="help">Click the Button below to add new Cards to this home Screen.</string>
+    <string name="country_list_preference_file">CountryList</string>
+    <string name="user_list_preference_file">UserCountryList</string>
+</resources>
